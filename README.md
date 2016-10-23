@@ -1,6 +1,5 @@
 # Reference LearnCode.academy
 # ReactAdvanceApplication
-#Tutorials from LearnCode.academy
 commands
 webpack-dev-server
 webpack-dev-server --watch
